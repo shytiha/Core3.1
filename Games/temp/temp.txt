@@ -1,0 +1,5 @@
+Имя файла: Games Путь: Games Последние изменения в файле: 1665655719191 Размер: 0 байт
+Имя файла: src Путь: C:\Users\novoa\IdeaProjects\Core3.1\Games\src Последние изменения в файле: 1665655719192 Размер: 0 байт
+Имя файла: res Путь: C:\Users\novoa\IdeaProjects\Core3.1\Games\res Последние изменения в файле: 1665655999571 Размер: 0 байт
+Имя файла: savegames Путь: C:\Users\novoa\IdeaProjects\Core3.1\Games\savegames Последние изменения в файле: 1665655719191 Размер: 0 байт
+Имя файла: temp.txt Путь: C:\Users\novoa\IdeaProjects\Core3.1\Games\temp\temp.txt Последние изменения в файле: 1666866035190 Размер: 658 байт
